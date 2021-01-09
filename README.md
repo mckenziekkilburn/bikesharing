@@ -10,7 +10,14 @@ _____________________________________
 ###### Checkout Times per User
 
 - This visualization displays the length of time that bikes are checked out for all riders.
-[checkout%20per%20user](https://github.com/mckenziekkilburn/bikesharing/blob/master/images/checkout%20per%20user.PNG)
+
+![checkout%20per%20user](https://github.com/mckenziekkilburn/bikesharing/blob/master/images/checkout%20per%20user.PNG)
+
+###### Checkout Times by Gender
+
+- This visualization displays the length of time that bikes are checked out for each gender.
+
+![checkout%20per%20gender](https://github.com/mckenziekkilburn/bikesharing/blob/master/images/checkout%20per%20gender.PNG)
 
 
 
